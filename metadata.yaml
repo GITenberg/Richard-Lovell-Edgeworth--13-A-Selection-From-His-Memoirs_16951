@@ -1,0 +1,44 @@
+_repo: Richard-Lovell-Edgeworth--13-A-Selection-From-His-Memoirs_16951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+  - agent_name: Edgeworth, Richard Lovell
+    birthdate: 1744
+    deathdate: 1817
+    gutenberg_agent_id: '7042'
+    url: http://www.gutenberg.org/2009/agents/7042
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Lovell_Edgeworth
+  editor:
+    agent_name: Tollemache, Beatrix L.
+    alias: Tollemache, Beatrix Lucia Catherine Egerton, Hon.
+    deathdate: 1926
+    gutenberg_agent_id: '7043'
+    url: http://www.gutenberg.org/2009/agents/7043
+description: ''
+gutenberg_issued: '2005-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intellectuals -- Ireland -- Biography'
+- !lcsh 'Ireland -- History -- 18th century -- Biography'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Edgeworth, Richard Lovell, 1744-1817'
+- !lcsh 'Landowners -- Ireland -- Biography'
+- !lcc 'DA'
+title: 'Richard Lovell Edgeworth: A Selection From His Memoirs'
+url: http://www.gutenberg.org/ebooks/16951
